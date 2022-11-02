@@ -43,7 +43,7 @@ npm run dev
 |**출력**|![업로드](https://user-images.githubusercontent.com/89028068/199479402-ef43e38c-0cc6-42e3-812b-329ff1f6e098.png)|![업로드중](https://user-images.githubusercontent.com/89028068/199479449-df48e9e7-410d-4bb3-9e2a-82f13060df9d.png)|![완료](https://user-images.githubusercontent.com/89028068/199479484-0f74b97e-29b3-44c1-a30c-2322f0d9e53d.png)|![업로드실패](https://user-images.githubusercontent.com/89028068/199479650-d217b608-e0b1-42ac-951b-9fccde63c35c.png)|![실패](https://user-images.githubusercontent.com/89028068/199479692-c207b79f-9b47-4170-9c0b-5b3aeab7c751.png)|
 
 
-### 코드 작성 시 
+### 컴포넌트 사용 시 
 
 ```javascript
 <UploadButton status="idle"></UploadButton>
